@@ -33,25 +33,11 @@ function MrCutty() {
 		}
 
 		var eggs = {
-				//github
 				1008: Lightsaber,
-				//google
 				1405: Bing,
-				//bing
 				1184: Google,
-				//yahoo
 				1312: Yahoo,
-				//techcruch
-				1428: Jcal,
-				//startupfoundry
-				2248: Lightsaber,
-				//hn
-				2047: Lightsaber,
-				//twitter
-				1152: Lightsaber
-				//digg
-				//reddit
-				//hn
+				1428: Jcal
 		};
 
 		Util.init();
